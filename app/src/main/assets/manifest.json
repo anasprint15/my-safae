@@ -1,0 +1,11 @@
+{
+  "name":"صفائي",
+  "short_name":"صفائي",
+  "start_url":".",
+  "display":"standalone",
+  "background_color":"#f5f5f2",
+  "theme_color":"#f7f7f4",
+  "lang":"ar",
+  "dir":"rtl",
+  "icons":[]
+}
